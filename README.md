@@ -51,4 +51,4 @@ $ python test.py \
 ```
 After testing, it will output a `output.csv` in `output/` folder.
 
-I also put my testing result in `1output/` folder. (`output_inception.csv` and `output_ensemble.csv`)
+I also put my testing result in `output/` folder. (`output_inception.csv` and `output_ensemble.csv`)
